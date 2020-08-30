@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, my name is Félix :wave:
 
-<!--
-**FelixTrepanier/FelixTrepanier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:rowboat::bicyclist:🏒 I love rowing, cycling, and hockey (and all sports in general)
 
-Here are some ideas to get you started:
+👨‍🎓 UBC master's of business analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:airplane: I work at Air Canada as a revenue management science and innovation manager (yes I know it's a mouthful)
+
+:bar_chart: Passionate about data science and its real world applications
+
+:computer: R, python, SQL
+
+ You can also find me on [linkedin](https://www.linkedin.com/in/felix-trepanier/)
