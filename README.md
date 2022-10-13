@@ -2,12 +2,12 @@
 
 :rowboat::bicyclist:🏒 I love rowing, cycling, and hockey (and all sports in general)
 
-👨‍🎓 UBC master's of business analytics
+👨‍🎓 UBC master's of business analytics and McGill Economics Major
 
-:airplane: I work at Air Canada as a revenue management science and innovation manager (yes I know it's a mouthful)
+:airplane: I work at Expedia as pricing data scientist
 
 :bar_chart: Passionate about data science and its real world applications
 
-:computer: R, python, SQL
+:computer: Python, R, SQL
 
  You can also find me on [linkedin](https://www.linkedin.com/in/felix-trepanier/)
