@@ -4,7 +4,7 @@
 
 👨‍🎓 UBC master's of business analytics and McGill Economics Major
 
-:airplane: I work at Expedia as pricing data scientist
+:airplane: I work at Airbnb as a data scientist
 
 :bar_chart: Passionate about data science and its real world applications
 
